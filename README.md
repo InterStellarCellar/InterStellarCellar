@@ -4,6 +4,5 @@
 👯 I’m looking to collaborate on anything interesting in the languages I am currently learning <br />
 🤔 I’m looking for help with VHDL and FPGA board logic <br />
 📫 How to reach me: <br />
-😄 Pronouns: she/her<br />
 ⚡ Fun fact: Big keyboard enthusiast <br />
 
